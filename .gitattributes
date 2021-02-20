@@ -15,3 +15,4 @@
 *.tag           text
 *.tagx          text
 *.xml           text
+*.js            text diff=js
